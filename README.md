@@ -69,8 +69,28 @@ SmartMed-Finder/
 ```
 
 ---
-
 ## 📸 Screenshots
+
+### Homepage
+
+<img width="1820" height="1019" alt="homepage_ir" src="https://github.com/user-attachments/assets/d6f6f769-b5b1-4c19-b6dd-ecad1936a748" />
+
+
+### Search Results
+
+<img width="1709" height="872" alt="search" src="https://github.com/user-attachments/assets/f6312c7c-136d-4f2a-b4e0-bda0a2f0012b" />
+
+
+### Appointment Booking
+
+<img width="1919" height="1014" alt="booking" src="https://github.com/user-attachments/assets/efaf7770-ca6d-48a3-b2d5-1ee812beda8e" />
+
+
+### Map Visualization
+
+<img width="1857" height="1028" alt="map_location" src="https://github.com/user-attachments/assets/b15d904d-9223-41d4-90a8-0b0345292cf0" />
+
+
 
 
 
