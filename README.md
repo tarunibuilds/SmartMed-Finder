@@ -63,7 +63,7 @@ SmartMed-Finder/
 ├── utils/
 │   ├── search.py
 │   ├── preprocessing.py
-│   └── ranking.py
+│   
 │
 └── assets/
 ```
@@ -72,7 +72,7 @@ SmartMed-Finder/
 
 ## 📸 Screenshots
 
-*Add project screenshots here*
+
 
 ---
 
